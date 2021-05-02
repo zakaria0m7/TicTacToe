@@ -1,0 +1,13 @@
+C:\Users\VEGA\Desktop\s2\poo\Our_Tic_Tac\bin\Debug\Our_Tic_Tac.exe.config
+C:\Users\VEGA\Desktop\s2\poo\Our_Tic_Tac\bin\Debug\Our_Tic_Tac.exe
+C:\Users\VEGA\Desktop\s2\poo\Our_Tic_Tac\bin\Debug\Our_Tic_Tac.pdb
+C:\Users\VEGA\Desktop\s2\poo\Our_Tic_Tac\obj\Debug\Our_Tic_Tac.csprojAssemblyReference.cache
+C:\Users\VEGA\Desktop\s2\poo\Our_Tic_Tac\obj\Debug\Our_Tic_Tac.Properties.Resources.resources
+C:\Users\VEGA\Desktop\s2\poo\Our_Tic_Tac\obj\Debug\Our_Tic_Tac.csproj.GenerateResource.cache
+C:\Users\VEGA\Desktop\s2\poo\Our_Tic_Tac\obj\Debug\Our_Tic_Tac.csproj.CoreCompileInputs.cache
+C:\Users\VEGA\Desktop\s2\poo\Our_Tic_Tac\obj\Debug\Our_Tic_Tac.exe
+C:\Users\VEGA\Desktop\s2\poo\Our_Tic_Tac\obj\Debug\Our_Tic_Tac.pdb
+C:\Users\VEGA\Desktop\s2\poo\Our_Tic_Tac\obj\Debug\Our_Tic_Tac.Winner.resources
+C:\Users\VEGA\Desktop\s2\poo\Our_Tic_Tac\obj\Debug\Our_Tic_Tac.Form_Init.resources
+C:\Users\VEGA\Desktop\s2\poo\Our_Tic_Tac\obj\Debug\Our_Tic_Tac.Form_Select.resources
+C:\Users\VEGA\Desktop\s2\poo\Our_Tic_Tac\obj\Debug\Our_Tic_Tac.Game_Form.resources
